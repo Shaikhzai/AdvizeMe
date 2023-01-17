@@ -3,6 +3,7 @@
     padding: 0;
     height: 100vh;
     box-sizing: border-box;
+    overflow: hidden;
   }
   
   .app {
@@ -108,6 +109,9 @@
     .card {
         width: 80%;
         height: 30%;
+    }
+    body{
+      overflow: hidden;
     }
   }
 
